@@ -1,7 +1,7 @@
 # MLOps-with-MLFlow
 
 
-## Workflows
+## Workflow
 
 1. Update config.yaml
 2. Update schema.yaml
