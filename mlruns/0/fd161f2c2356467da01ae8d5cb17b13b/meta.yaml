@@ -1,0 +1,15 @@
+artifact_uri: file:///home/moukouba/MLOps-with-MLFlow/mlruns/0/fd161f2c2356467da01ae8d5cb17b13b/artifacts
+end_time: 1694489783537
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fd161f2c2356467da01ae8d5cb17b13b
+run_name: orderly-hog-819
+run_uuid: fd161f2c2356467da01ae8d5cb17b13b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694489782192
+status: 3
+tags: []
+user_id: moukouba

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/moukouba/MLOps-with-MLFlow/mlruns/0/b23762685f9e4dc0b64bf1cfc7fb9ebf/artifacts
+end_time: 1694489448587
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b23762685f9e4dc0b64bf1cfc7fb9ebf
+run_name: caring-squid-455
+run_uuid: b23762685f9e4dc0b64bf1cfc7fb9ebf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694489447041
+status: 3
+tags: []
+user_id: moukouba

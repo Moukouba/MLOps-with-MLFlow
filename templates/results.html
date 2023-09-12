@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Machine Learning App - Results</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f0f0f0;
+            margin: 0;
+            padding: 0;
+            text-align: center;
+        }
+        
+        .container {
+            background-color: #ffffff;
+            border-radius: 8px;
+            box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+            width: 80%;
+            max-width: 600px;
+            margin: 0 auto;
+            padding: 20px;
+            box-sizing: border-box;
+            margin-top: 20px;
+        }
+        
+        h1 {
+            color: #333333;
+        }
+        
+        p {
+            color: #555555;
+        }
+        
+        .result {
+            background-color: #007bff;
+            color: #ffffff;
+            padding: 10px;
+            border-radius: 5px;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Machine Learning Prediction Result</h1>
+        <p>The machine learning model has made the following prediction:</p>
+        <div class="result">
+            <h2>Prediction:</h2>
+            <p>{{ prediction }}</p>
+        </div>
+    </div>
+</body>
+</html>
